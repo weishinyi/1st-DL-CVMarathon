@@ -6,8 +6,8 @@
 # 忽略 config 目錄下的 database.yml 檔案
 #config/database.yml
 
-# 忽略所有 db 目錄下附檔名是 .sqlite3 的檔案
-/homework/*.pdf
+# 忽略pdf檔案
+*.pdf
 
 # 忽略zip目錄下所有檔案
 /zip/*
