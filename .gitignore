@@ -12,6 +12,7 @@
 
 # 忽略zip目錄下所有檔案
 /zip/*
+/homework/Data/dataset
 
 # 忽略所有附檔名是 .tmp 的檔案
 #*.tmp
