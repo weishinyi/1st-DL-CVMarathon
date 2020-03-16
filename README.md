@@ -40,5 +40,19 @@ D34 YOLO 細節理解 - 損失函數
 D35 YOLO 細節理解 - 損失函數程式碼解讀  
 D36 YOLO 細節理解 - 網路架構  
 D37 YOLO 細節理解 - 網路架構程式碼解讀
+D38 YOLO 演進  
+D39 使用 YOLOv3 偵測圖片及影片中的物件  
+D40 更快的檢測模型 - tiny YOLOv3  
+D41 訓練 YOLOv3  
 
+## 4 電腦視覺深度學習實戰  
+D42 人臉關鍵點-資料結構簡介  
+D43 人臉關鍵點-檢測網路架構  
+D44 訓練人臉關鍵點檢測網路  
+D45 人臉關鍵點應用  
+D46 Mobilenet  
+D47 Mobilenetv2  
+D48 Tensorflow Object Detection API  
 
+## 5 期末專題
+D49-50 期末專題  
