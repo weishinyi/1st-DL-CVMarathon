@@ -20,8 +20,8 @@ D14 CNN分類器架構：Batch Normalization
 D15 訓練一個CNN分類器：Cifar10為例  
 D16 如何使用Data Augmentation  
 D17 AlexNet  
-D18 VGG16 and 19 
-D19 InceptionV1-V3  
+D18 VGG16 and 19   
+D19 InceptionV1-V3    
 D20 ResNetV1-V2、InceptionV4、Inception-ResNet  
 D21 Transfer learning  
 D22 Breaking Captchas with a CNN  
@@ -39,7 +39,7 @@ D33 YOLO 細節理解 - 網路輸出的後處理
 D34 YOLO 細節理解 - 損失函數  
 D35 YOLO 細節理解 - 損失函數程式碼解讀  
 D36 YOLO 細節理解 - 網路架構  
-D37 YOLO 細節理解 - 網路架構程式碼解讀
+D37 YOLO 細節理解 - 網路架構程式碼解讀  
 D38 YOLO 演進  
 D39 使用 YOLOv3 偵測圖片及影片中的物件  
 D40 更快的檢測模型 - tiny YOLOv3  
